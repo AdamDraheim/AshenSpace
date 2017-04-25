@@ -1,0 +1,42 @@
+package ashenSpace.game;
+
+public enum ID {
+
+	player(),
+	block(),
+	asteroid(),
+	bullet(),
+	enemyBullet(),
+	complexBullet(),
+	basicEnemy(),
+	boss(),
+	rapidEnemy(),
+	mapBlock(),
+	shield(),
+	flagA(),
+	medkit(),
+	bomb(),
+	sniperEnemy(),
+	sniperBullet(),
+	lava(),
+	dead(),
+	heavyBullet(),
+	arbol(),
+	reboundBullet(),
+	missileBoss(),
+	missile(),
+	pDam(),
+	missileHit(),
+	danton(),
+	rune(),
+	enemySpawner(),
+	followBoss(),
+	dragon(),
+	removable(),
+	flagB(),
+	flagC(),
+	flagD(),
+	flagE(),
+	tutEnemy()
+	
+}
